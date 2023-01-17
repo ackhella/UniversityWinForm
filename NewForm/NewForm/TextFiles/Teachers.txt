@@ -1,0 +1,6 @@
+Катерина,Іванюк,ivanyuk22@gamil.com,36,Python,Львів,15000
+Денис,Мельник,den4is@gamil.com,40,Scala,Київ,14500
+Олена,Козаченко,fkdmek@gmail.com,30,CSharp,Херсон,15000
+Олександр,Рибак,jnjvndv@gmail.com,30,CSharp,Херсон,20000
+Ольга,Тарасенко,olga22@gamil.com,36,Python,Львів,14000
+Олег,Микитенко,olegg4is@gamil.com,40,Scala,Київ,14500
